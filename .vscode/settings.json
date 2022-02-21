@@ -1,0 +1,22 @@
+{
+  "cSpell.words": [
+    "Elmah"
+  ],
+  "sqltools.connections": [
+    {
+      "mssqlOptions": {
+        "appName": "SQLTools",
+        "useUTC": true,
+        "encrypt": true
+      },
+      "previewLimit": 50,
+      "server": "localhost",
+      "port": 1433,
+      "driver": "MSSQL",
+      "name": "Sql",
+      "username": "sa",
+      "password": "Rumos@1982",
+      "database": "AspNetCore.WebApi"
+    }
+  ]
+}
